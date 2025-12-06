@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "WD8XN4JRV3.com.qatarairways.horizondocs",
+        "paths": [
+          "/document/*"
+        ]
+      }
+    ]
+  }
+}
